@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: com.core
+Implementation-Version: 1.5.2.RELEASE
+Built-By: wujinwei
+Implementation-Vendor-Id: core
+Build-Jdk: 1.8.0_60
+Implementation-URL: http://projects.spring.io/spring-boot/com.core/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
